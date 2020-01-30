@@ -14,3 +14,15 @@ The user interacts with the system by providing/selecting a list of products whi
 In the background, the recommender system will map product specs to vectors in a high-dimensional feature space,
 and compare available product vectors to a new vector constructed from the preferences.
 To compare vectors, the system will use Euclidean or Cosine similarity distance measures between vectors. 
+
+## Files & Notebooks
+
+Check out the Speaker_Recommender.ipynb notebook to see how the recommender system works. 
+The notebook includes:
+* code that was used to scape Guitar Center for PA speaker product data.
+* data cleaning and exploratory analysis
+* the core of the recommendation system (using Euclidean and Cosine comparisson measure)
+* preliminary validation analysis
+
+The cvs files contain data used by the recommender system to build useful data frames. 
+
