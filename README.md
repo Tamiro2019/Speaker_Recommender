@@ -15,7 +15,7 @@ In the background, the recommender system will map product specs to vectors in a
 and compare available product vectors to a new vector constructed from the preferences.
 To compare vectors, the system will use Euclidean or Cosine similarity measures between vectors. 
 
-## Files & Notebooks
+## Notebooks & Files
 
 Check out the Speaker_Recommender.ipynb notebook to see how the recommender system works. 
 The notebook includes:
