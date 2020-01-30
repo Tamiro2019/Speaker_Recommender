@@ -13,7 +13,7 @@ The user interacts with the system by providing/selecting a list of products whi
 
 In the background, the recommender system will map product specs to vectors in a high-dimensional feature space,
 and compare available product vectors to a new vector constructed from the preferences.
-To compare vectors, the system will use Euclidean or Cosine similarity distance measures between vectors. 
+To compare vectors, the system will use Euclidean or Cosine similarity measures between vectors. 
 
 ## Files & Notebooks
 
