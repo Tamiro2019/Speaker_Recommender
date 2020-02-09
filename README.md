@@ -16,10 +16,14 @@ and compares these product vectors to a new vector constructed from user prefere
 ## Notebooks & Files
 
 Check out the Speaker_Recommender.ipynb notebook to see how the recommender system works. 
-The notebook includes:
+The notebook includes:  
+
 • Code that was used to scape Guitar Center for PA speaker product data.
+
 • Data cleaning and exploratory analysis, including visualization graphs.
+
 • Core algorithms which implement Euclidean and cosine comparissons.
+
 • Preliminary validation analysis
 
 The cvs files contain data used by the recommender system to build useful data frames. 
