@@ -11,8 +11,8 @@ The recommender system holds a data frame of several different public address (P
 The user interacts with the system by providing/selecting a list of products which are liked and disliked based on prior experience. The recommender system will then return ranked lists of new similar products. 
 
 In the background, the recommender system will map product specs to vectors in a high-dimensional feature space,
-and compare available product vectors to a new vector constructed from the preferences.
-To compare vectors, the system will use Euclidean or Cosine similarity measures between vectors. 
+and compare these product vectors to a new vector constructed from user preferences.
+To compare vectors, the system uses Euclidean and cosine similarity measures. 
 
 ## Notebooks & Files
 
