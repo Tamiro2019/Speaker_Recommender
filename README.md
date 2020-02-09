@@ -19,12 +19,12 @@ Check out the Speaker_Recommender.ipynb notebook to see how the recommender syst
 
 The notebook includes:  
 
-• Code that was used to scape Guitar Center for PA speaker product data.
+• Code used to scape Guitar Center's website for PA speaker product data.
 
-• Data cleaning and exploratory analysis, including visualization graphs.
+• Data cleaning and exploratory analysis, including visualizations.
 
 • Core algorithms which implement Euclidean and cosine comparissons.
 
-• Preliminary validation analysis
+• Preliminary validation analysis.
 
 The cvs files contain data used by the recommender system to build useful data frames. 
