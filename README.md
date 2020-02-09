@@ -2,7 +2,7 @@
 ## Speaker Recommender System
 
 Behind every excellent live performance is a quality public address (PA) system of amplifiers and loudspeakers.
-Since these systems are costly to implement, it is crucial that sound engineers, production managers, and event planners choose their equipment properly to ensure great sound quality at a good price. The speaker recommender system uses a buyer's
+Since these systems are costly to implement, it is crucial that sound engineers, production managers, and event planners choose their equipment well to ensure great sound quality at an optimal price. The speaker recommender system uses a buyer's
 preferences to recommend new products, saving time and ensuring their money is well spent. 
 
 ## How it works (overview)
