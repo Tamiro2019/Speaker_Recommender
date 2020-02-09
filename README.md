@@ -8,20 +8,18 @@ preferences to recommend new products, saving time and ensuring their money is w
 ## How it works (overview)
 
 The recommender system holds a data frame of several different public address (PA) speaker products and their specifications. 
-The user interacts with the system by providing/selecting a list of products which are liked and disliked based on prior experience. The recommender system will then return ranked lists of new similar products. 
+The user interacts with the system by providing/selecting a list of products which are liked and disliked based on prior experience. The recommender system then returns a ranked list of new similar products. 
 
-In the background, the recommender system will map product specs to vectors in a high-dimensional feature space,
-and compare these product vectors to a new vector constructed from user preferences.
-To compare vectors, the system uses Euclidean and cosine similarity measures. 
+In the background, the recommender system maps product specs to vectors in a high-dimensional feature space,
+and compares these product vectors to a new vector constructed from user preferences. To compare vectors, the system uses Euclidean and cosine similarity measures. 
 
 ## Notebooks & Files
 
 Check out the Speaker_Recommender.ipynb notebook to see how the recommender system works. 
 The notebook includes:
-* code that was used to scape Guitar Center for PA speaker product data.
-* data cleaning and exploratory analysis
-* the core of the recommendation system (using Euclidean and Cosine comparisson measure)
-* preliminary validation analysis
+• Code that was used to scape Guitar Center for PA speaker product data.
+• Data cleaning and exploratory analysis, including visualization graphs.
+• Core algorithms which implement Euclidean and cosine comparissons.
+• Preliminary validation analysis
 
 The cvs files contain data used by the recommender system to build useful data frames. 
-
